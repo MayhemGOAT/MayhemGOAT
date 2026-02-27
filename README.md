@@ -1,85 +1,46 @@
-# Hi, I'm Aditya 👋  
+# Hey, I'm Aditya 👋
 
-🎓 Data Science & Computer Science student at the University of Pittsburgh  
-🔬 Machine Learning | Quantitative Modeling | Signal Processing  
-🧠 Interested in NLP, probabilistic models, and real-world ML systems  
+I'm a Data Science & CS student at Pitt, and I spend most of my time at the intersection of **machine learning, quantitative modeling, and signal processing**. I like building things that actually work end-to-end — messy raw data in, something useful out.
 
-I enjoy building end-to-end ML pipelines — from raw data ingestion to modeling, evaluation, and interpretation.
+Right now I'm deep into time-series forecasting, Bayesian modeling, and anything involving NLP or LLMs. I also have a soft spot for quant finance and wearable health tech.
 
 ---
 
-# 🚀 Projects & Experience
+## 🔨 Things I've Built
 
-## 📈 Apple Stock Price Prediction – Quantitative ML Pipeline
-Built a scale-invariant machine learning system to predict next-day AAPL returns using 80+ engineered technical indicators across 15 years of data.
+### 📈 Apple Stock Price Prediction
+A quantitative ML pipeline that predicts next-day AAPL returns using 80+ engineered technical indicators across 15 years of price data. Strict chronological validation (no leakage), return-based targets to avoid price-range bias, and **58–62% out-of-sample directional accuracy on 2023–2024 data**.
 
-- 🌲 Random Forest (500 trees)
-- 📊 Strict chronological time-series validation (no leakage)
-- 🎯 58–62% directional accuracy (out-of-sample 2023–2024)
-- 🔁 Return-based target design to prevent price-range bias
-- 📉 Comprehensive evaluation: MAE, RMSE, directional accuracy
-
-🔗 Repository:  
-https://github.com/MayhemGOAT/quant-backtester
+→ [github.com/MayhemGOAT/quant-backtester](https://github.com/MayhemGOAT/quant-backtester)
 
 ---
 
-## 🫀 Textile ECG Signal Classifier – Biomedical ML
-Developed an end-to-end machine learning pipeline for classifying ECG signals collected from textile-based biosensors.
-
-- 🧪 Real-world physiological signal processing
-- 📊 Feature extraction from noisy time-series biosignals
-- 🤖 Supervised learning classification models
-- 🔬 Applied ML to wearable health technology research
+### 🫀 Textile ECG Signal Classifier
+End-to-end pipeline for classifying ECG signals from textile-based biosensors. The real challenge here was dealing with noisy physiological time-series — extracting clean features from wearable sensors that aren't exactly lab-grade hardware.
 
 ---
 
-## 🦠 COVID-19 Multi-City Analytics Pipeline
-Designed a data ingestion and visualization pipeline for COVID-19 case trends across 50+ U.S. cities.
-
-- 📥 Automated data collection & cleaning
-- 📈 Time-series trend analysis
-- 📊 Interactive visualizations
-- 🏗️ Structured ETL workflow
+### 🦠 COVID-19 Multi-City Analytics
+Built a data ingestion and visualization pipeline tracking case trends across 50+ U.S. cities. Automated ETL, time-series trend analysis, and interactive dashboards — built when the data was actually moving fast and accuracy mattered.
 
 ---
 
-## 🧪 Materials Efficiency Analyzer – Research Modeling
-Built ETL + modeling pipeline to analyze filtration material performance.
-
-- 📊 Experimental data processing
-- 📈 Regression modeling for efficiency prediction
-- 🔬 Contributed to research on advanced materials & biosensing technologies
+### 🧪 Materials Efficiency Analyzer
+Regression modeling pipeline for analyzing filtration material performance, built as part of research on advanced materials and biosensing. Took experimental lab data from raw measurements to interpretable efficiency predictions.
 
 ---
 
-# 🧠 Technical Skills
+## 🛠️ Stack
 
-### Languages
-Python • SQL • MATLAB  
-
-### Machine Learning & Data
-Scikit-learn • PyTorch • Pandas • NumPy  
-
-### Tools & Infrastructure
-AWS • Git • Jupyter • Linux  
+**Languages:** Python · SQL · MATLAB  
+**ML/Data:** Scikit-learn · PyTorch · Pandas · NumPy  
+**Tools:** AWS · Git · Jupyter · Linux  
 
 ---
 
-# 📚 Current Interests
+## 📬 Get in Touch
 
-- Time-series forecasting
-- Quantitative finance
-- Bayesian modeling & uncertainty estimation
-- NLP & LLM systems
-- Signal processing
+I'm always happy to talk ML, quant stuff, or interesting projects.
 
----
-
-# 📫 Connect
-
-LinkedIn:  
-https://www.linkedin.com/in/aditya-singh3441
-
-Email:  
-jpsanuadi@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/aditya-singh3441)
+- 📧 jpsanuadi@gmail.com
