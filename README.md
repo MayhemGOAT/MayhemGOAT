@@ -1,46 +1,49 @@
-# Hey, I'm Aditya 👋
+# Hi, I'm Aditya 👋
 
-I'm a Data Science & CS student at Pitt, and I spend most of my time at the intersection of **machine learning, quantitative modeling, and signal processing**. I like building things that actually work end-to-end — messy raw data in, something useful out.
+Data Science & Computer Science student at the **University of Pittsburgh**, working at the intersection of **machine learning, quantitative modeling, and signal processing**. I like building things end-to-end — messy raw data in, something useful out.
 
-Right now I'm deep into time-series forecasting, Bayesian modeling, and anything involving NLP or LLMs. I also have a soft spot for quant finance and wearable health tech.
-
----
-
-## 🔨 Things I've Built
-
-### 📈 Apple Stock Price Prediction
-A quantitative ML pipeline that predicts next-day AAPL returns using 80+ engineered technical indicators across 15 years of price data. Strict chronological validation (no leakage), return-based targets to avoid price-range bias, and **58–62% out-of-sample directional accuracy on 2023–2024 data**.
-
-→ [github.com/MayhemGOAT/quant-backtester](https://github.com/MayhemGOAT/quant-backtester)
+Lately I've been deep in time-series forecasting, applied ML for science, and anything involving NLP/LLMs, with a soft spot for quantitative finance.
 
 ---
 
-### 🫀 Textile ECG Signal Classifier
-End-to-end pipeline for classifying ECG signals from textile-based biosensors. The real challenge here was dealing with noisy physiological time-series — extracting clean features from wearable sensors that aren't exactly lab-grade hardware.
+### 📄 Publication
+
+**ACS Omega (2025)** — Machine-learning-enhanced detection of COVID-19 strains from Raman spectroscopy data.
+[Read the paper →](ADD_YOUR_DOI_LINK_HERE)
+
+### 🎓 Education
+
+**B.S. Data Science & Computer Science**, University of Pittsburgh — expected August 2026.
+Research experience at **IIT Delhi** and the **University of Georgia** in applied ML and biosensing.
 
 ---
 
-### 🦠 COVID-19 Multi-City Analytics
-Built a data ingestion and visualization pipeline tracking case trends across 50+ U.S. cities. Automated ETL, time-series trend analysis, and interactive dashboards — built when the data was actually moving fast and accuracy mattered.
+## 🔨 Featured Projects
 
----
+**[PulseX](https://github.com/MayhemGOAT/PulseX)** — AI trading assistant
+Fuses LLM-sourced market sentiment from X with technical signals to produce per-ticker trade ideas (UP/DOWN/HOLD/TRIM/SELL). Modular Python pipeline with a strategy backtester and a test suite. *Python · scikit-learn · yfinance · pytest*
 
-### 🧪 Materials Efficiency Analyzer
-Regression modeling pipeline for analyzing filtration material performance, built as part of research on advanced materials and biosensing. Took experimental lab data from raw measurements to interpretable efficiency predictions.
+**[Raman COVID-Strain Classifier](https://github.com/MayhemGOAT/raman-covid-strain-classifier)** — applied ML research
+Interactive Streamlit app that classifies COVID-19 strains from Raman spectra — the applied side of my ACS Omega work at IIT Delhi. *Python · scikit-learn · Streamlit*
+
+**[AI Assessment Platform](https://github.com/MayhemGOAT/ai-assessment)** — full-stack app
+AI-powered assessment generation with a FastAPI backend, Next.js frontend, and PostgreSQL, containerized with Docker. *FastAPI · Next.js · PostgreSQL · Docker*
 
 ---
 
 ## 🛠️ Stack
 
-**Languages:** Python · SQL · MATLAB  
-**ML/Data:** Scikit-learn · PyTorch · Pandas · NumPy  
-**Tools:** AWS · Git · Jupyter · Linux  
+**Languages:** Python · SQL · R · MATLAB
+**ML / Data:** scikit-learn · PyTorch · pandas · NumPy
+**Backend / Tools:** FastAPI · PostgreSQL · Docker · AWS · Git · Linux
 
 ---
 
 ## 📬 Get in Touch
 
-I'm always happy to talk ML, quant stuff, or interesting projects.
+🇺🇸 U.S. citizen — eligible for security clearance.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/aditya-singh3441)
 - 📧 jpsanuadi@gmail.com
+
+Always happy to talk ML, quant, or interesting projects.
